@@ -21,6 +21,7 @@ When the player makes a mistake or completes all rounds, the game ends with a me
    - A melody is played
 7. The maximum sequence length is **20 steps**.
 
+![Game demo](game_demo.png)
 [Project demo video (on youtube)](https://www.youtube.com/watch?v=UaOxY1Et8yw)
 
 ---
